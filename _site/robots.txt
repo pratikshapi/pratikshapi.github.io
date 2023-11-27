@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pratiksha-pai.github.io/sitemap.xml

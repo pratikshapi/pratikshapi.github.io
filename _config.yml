@@ -124,8 +124,8 @@ permalink: /blog/:year/:title/
 
 repositories: repositories
 repositories_nav_title: repositories # your blog must have a title for it to be displayed in the nav bar
-repositories_description: A collection of repositories I have worked on.
-permalink: /repositories/:year/:title/
+# repositories_description: A collection of repositories I have worked on.
+# # permalink: /repositories/:year/:title/
 
 
 # Pagination

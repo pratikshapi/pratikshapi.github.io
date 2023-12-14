@@ -20,6 +20,6 @@ Hi there 👋 I'm Pratiksha Pai. I'm a Master's Computer Engineering student at 
 
 I'm currently working as Graduate Research Assistant at [Neuroloops Lab](https://neuroloops.psych.gatech.edu/), Georgia Tech with [Prof. Celikel Tansu](https://www.centerfordecisionscience.nl/tansu-celikel). I am currently developing [sensorimotorkit](https://github.com/Neuronext/sensorimotorkit) for my lab to stream data from different sensory modalities. 
 
-I am also learning basics of Generative AI and working on some pet projects, see [pyllama](https://github.com/pratikshapi/pyllama) and [sentsim](https://github.com/pratikshapi/sentsim). I am still new (and late?) to this arena, but always learning, connect [here](https://twitter.com/pratiksha_pai)!
+I am also learning basics of Generative AI and working on some pet projects, see [pyllama](https://github.com/pratikshapi/pyllama) and [sentsim](https://github.com/pratikshapi/sentsim). I am still new (and late?) to this arena, but always learning, connect [here](https://twitter.com/pratiksha_pai), collaborate [here](https://github.com/pratikshapi)!
 
 Previously, Senior Software Engineer @ [Infoworks](https://www.infoworks.io/) and Electrical Engineering from [NITK Surathkal](https://www.nitk.ac.in/).

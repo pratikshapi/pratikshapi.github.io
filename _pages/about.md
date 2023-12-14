@@ -6,8 +6,8 @@ subtitle:
 
 profile:
   align: left
-  image: meme.jpeg
-  image_circular: false # crops the image to make it circular
+  image: meme.jpg
+  image_circular: false 
 
 
 news: false  # includes a list of news items
@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Pratiksha Pai. I'm a 2nd year Master's Computer Engineering student at [Georgia Institute of Technology](https://ece.gatech.edu/). I'm working in Working @ Neural Information Processing Lab, Georgia Tech with [Prof. Celikel Tansu](https://www.centerfordecisionscience.nl/tansu-celikel). Learning basics of Generative AI and working on pet projects!
+Hi! I'm Pratiksha Pai. I'm a Master's Computer Engineering student at [Georgia Institute of Technology](https://ece.gatech.edu/). I'm currently working as research assistant at [Neuroloops Lab](https://neuroloops.psych.gatech.edu/), Georgia Tech with [Prof. Celikel Tansu](https://www.centerfordecisionscience.nl/tansu-celikel).

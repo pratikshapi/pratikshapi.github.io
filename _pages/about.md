@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there 👋 I'm Pratiksha Pai. I'm a Master's Computer Engineering student at [Georgia Tech](https://ece.gatech.edu/). 
+Hi there 👋 I'm Pratiksha Pai. I'm a Master's Computer Engineering student at [Georgia Tech](https://ece.gatech.edu/). Please find my most updated CV [here](https://pratikshapi.github.io/assets/pdf/CV.pdf).
 
 I'm currently working as Graduate Research Assistant at [Neuroloops Lab](https://neuroloops.psych.gatech.edu/), Georgia Tech with [Prof. Celikel Tansu](https://www.centerfordecisionscience.nl/tansu-celikel). I am currently developing [sensorimotorkit](https://github.com/Neuronext/sensorimotorkit) for my lab to stream data from different sensory modalities. 
 
